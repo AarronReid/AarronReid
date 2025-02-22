@@ -10,4 +10,4 @@
 AarronReid/AarronReid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-130% increase 4% daily growth
+300% increase 4% daily growth 30% Intrest 
